@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "bt_modules")(type "KiCad")(uri "${KIPRJMOD}/bt_modules.kicad_sym")(options "")(descr ""))
+  (lib (name "battery_charger")(type "KiCad")(uri "${KIPRJMOD}/battery_charger.kicad_sym")(options "")(descr ""))
+)

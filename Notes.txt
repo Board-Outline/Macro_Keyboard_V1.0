@@ -1,0 +1,33 @@
+https://keeb.io/products/foldkb
+
+https://www.tindie.com/products/joshajohnson/hub16-programmable-macro-keyboard/
+
+https://www.hackster.io/news/this-smart-macro-keyboard-is-perfect-for-pcb-design-and-cad-34ddf57a2a3e
+
+https://github.com/joshajohnson/hub16
+
+https://www.youtube.com/watch?v=UKfeJrRIcxw&ab_channel=BenVallack
+
+https://splitkb.com/products/nice-nano?_pos=1&_sid=1b366af61&_ss=r
+
+https://splitkb.com/collections/keyboard-parts
+
+https://www.tme.com/au/en/details/pan1780/iot-wifi-bluetooth-modules/panasonic/enw89854a1kf/ - favorite module so far. 
+
+https://www.youtube.com/watch?v=5tERUZ_BSPM&ab_channel=D%C3%A9nesB%C3%A1n
+
+https://mykeyboard.eu/
+https://www.reichelt.de/cherry-mx-brown-rgb-tastenmodul-cherry-mx1a-g1na-p258097.html?&trstct=pol_0&nbc=1
+https://mechboards.co.uk/
+https://gist.github.com/henfiber/a17c7b2a7053473fe37b1a6f80e58efd
+https://www.youtube.com/watch?v=M_VuXVErD6E&ab_channel=BenVallack
+
+https://www.hackster.io/yswallow/kidoairaku-swallowtail-a-cute-butterfly-shaped-keyboard-8c2b4d
+
+https://olkb.com/ - great looking ortholinear keyboard
+
+
+https://keeb.io/collections/keyboard-pcbs/products/ergodicity-60-kailh-choc-low-profile-board - How one should do the keyboard.
+https://www.reddit.com/r/ErgoMechKeyboards/comments/pl3xwt/kailh_choc_v1_plate_question/ - top plate
+https://josefadamcik.github.io/SofleKeyboard/build_guide_choc.html - top plate design files
+https://keeb.io/products/iris-keyboard-case-plates - more mid plate designs
